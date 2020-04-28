@@ -12,8 +12,6 @@ What's up! I'm Lok Wong, a currrently Year 3 student of Computer Science in CUHK
 * [Contributor](#contributor)
 
 ## Background
-||
-|---|---
 |Full Name|Wong Tsz Lok
 |Nick Name|Lok
 |School|The Chinese University of Hong Kong
@@ -61,6 +59,7 @@ int main() {
 - [X] Milestone #3
 
 ## Screenshot
+![Screenshot](CSCI3251.png)
 
 ## Contributor
 - **Lok Wong** - [lokwongwtl](https://github.com/lokwongwtl)
