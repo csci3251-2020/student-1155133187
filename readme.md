@@ -12,6 +12,8 @@ What's up! I'm Lok Wong, a currrently Year 3 student of Computer Science in CUHK
 * [Contributor](#contributor)
 
 ## Background
+|Genre|Details
+|---|---
 |Full Name|Wong Tsz Lok
 |Nick Name|Lok
 |School|The Chinese University of Hong Kong
